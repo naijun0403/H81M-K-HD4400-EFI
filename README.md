@@ -2,4 +2,4 @@
 Hackintosh EFI for H81M-K and HD4400
 
 # Works it?
-Yes, but macOS Big Sur is not support
+Yes, but macOS Big Sur is not support because some icon picture not appear
