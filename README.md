@@ -2,7 +2,7 @@
 Hackintosh EFI for H81M-K and HD4400(It is OpenCore 0.7.0!)
 
 # What is YEARS?
-mac gen is 2017
+mac gen is 2015
 
 # Works it?
 Yes It's good!
