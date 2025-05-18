@@ -1,3 +1,6 @@
+# ⚠️ Not maintained!
+I no longer use hardware in this configuration; the EFI is valid up to the version listed below, but I no longer plan to maintain it.
+
 # H81M-K-HD4400-EFI
 Hackintosh EFI for H81M-K and HD4400(It is OpenCore 0.7.0!)
 
